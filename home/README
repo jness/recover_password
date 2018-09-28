@@ -1,0 +1,15 @@
+This server runs a very simple Python service that requires
+a lock on a password file.
+
+The administrator has deleted the password file but hasn't shutdown
+the service, help him retrieve the password.
+
+Useful programs:
+
+ * ps
+ * grep
+ * lsof
+
+Useful directories:
+
+ * /proc (in-memory filesystem)
