@@ -1,4 +1,4 @@
-Recover the password file
+# Recover the password file
 
 ```
 $ docker build . -t recover_password:0.1
